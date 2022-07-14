@@ -1,0 +1,3331 @@
+
+
+
+EXEMPLO DRIVE ABRIR NA PAG
+
+https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview
+
+<button><a href="#" 
+target="popup" 
+onclick="window.open('https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview','popup','width=1280,height=900'); return false;">
+EXEMPLO DRIVE ABRIR NA PAG
+</a></button>
+
+
+</button>
+
+    API
+https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+
+AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+CRIAR LINK WHATZAPP
+https://api.chatpro.com.br/gerador-de-links
+  
+https://api.chatpro.com.br/gerador-de-links?telefone=%2885%29+988885153&msg=SANTOS+QUERO+DIZER+QUE+...
+<!--------------------------------------------------------->
+<center>
+<HR SIZE="7">
+<HR WIDTH="80%">
+<HR NOSHADE SIZE="8" color="#00ccff">
+<HR NOSHADE SIZE="8">
+<!--------------------------------------------------------->
+<!--------------------------------------------------------->
+
+<p><button><a href="#" 
+target="popup" 
+onclick="window.open('LINK🔴','popup','width=1280,height=900'); return false;">
+NOME🔴
+</a></button></p>
+
+<img src="/logo.png🔴" width="300">
+
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</html>
+
+</button>
+
+<center>
+
+<a href="
+LINK🔴
+" target="_blank"><h2>
+OUTRAABA🔴
+</h2></a>
+
+</center>
+
+<img src="/logo.png🔴" width="300">
+
+--------------------------------------------------------------------
+
+<a href="
+LINK🔴
+" target="_self">
+MESMAABA🔴
+</a>
+<img src="/logo.png" width="300">
+
+<!-------------------------------🔴----------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<!------------------------------senhas1-------------------------------->
+<html><head><title>SENHA</title></head><CENTER><FORM>
+<input type="button" value="🔐🔞CLIQUE AQUI PARA ENTRAR🔞🔐" onClick="passWord()">
+</FORM></CENTER>
+
+<script language="javascript">
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Insira sua Senha','Digite sua senha');
+while (testV < 3) {
+ if (!pass1) 
+  history.go(-1);
+ if (pass1.toLowerCase() == "0398") {
+   alert('Logado !, Aperte em "OK" para abrir popup...');
+   window.open('https://forum.scriptbrasil.com.br/topic/56750-pagina-html-com-senha/');
+   break;
+   } 
+  testV+=1;
+  var pass1 = 
+  prompt('Acesso Negado - Password Incorrecto.','Digite sua senha');
+ }
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+}
+</script>
+</body>
+</html>
+<!-------------------------------senha2------------------------------->
+http://www.explorando.com.br/dica026-senhajs.htm
+
+<script language=javascript>
+senha = 'SENHA AQUI';
+senhadig = prompt("Digite a senha","")
+if (senha != senhadig){
+alert('Acesso negado!');
+top.location.href='erro.htm';
+}
+</script>
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+<!-------------------------------------------------------------->
+----------------------------POP UP AUTO---------------------------------
+<html>
+<head>
+<title></title>
+<script languague="javascript">
+function popup(){
+window.open('nomedapagina.html','popup','width=200,height=100,scrolling=auto,top=0,left=0')
+}
+</script>
+</head>
+<body onload=popup()>
+</body>
+</html>
+ 
+
+-----------------------------------------------
+
+<HR NOSHADE SIZE="3" color="red">
+<HR NOSHADE SIZE="5" color="#00ff00">
+<HR NOSHADE SIZE="8" color="#00ccff">
+<HR WIDTH=100% ALIGN=RIGHT NOSHADE>
+
+<!------✅🔞😈😇🔴  outra aba  🔴😇😈🔞✅------>
+<a href="
+LINK
+" style="color: #F00" target="_blank">
+OUTRA ABA
+</a>
+
+<img src="/logo.png" width="300">
+
+<body bgcolor="COR"> </body>
+
+ 😇😈FILMESSANTOS😈😇
+
+<--------------------------pop up imediatamente--------------------->
+<html>
+<head>
+<title></title>
+<script languague="javascript">
+function popup(){
+window.open('DICA.txt','popup','width=1820,height=900,scrolling=auto,top=0,left=0')
+}
+</script>
+</head>
+<body onload=popup()>
+</body>
+</html>
+-------------------------POP UP AO CLICAR----------------------------
+<li><a href="#" 
+target="popup" 
+onclick="window.open('LINK','popup','width=1280,height=900'); return false;">
+NOME
+</a></li>
+--------------------------------------------------
+<!---------------------autoplay------------------------->
+<center><h3>
+🔞PORNO🔞
+</h3><video width="97%" loop="true" autoplay="autoplay" controls muted><source src="
+🔴LINK🔴
+" type="video/mp4" /><source src="
+🔴LINK🔴
+" type="video/ogv" /><source src="
+🔴LINK🔴
+" type="video/webm" /></video></center><HR NOSHADE SIZE="1" color="red">
+<!--------------------------------------------------------->
+<!---------------------autoplay------------------------->
+<center><h3>
+🔞PORNO🔞
+</h3><video width="330" height="220" loop="true" autoplay="autoplay" controls muted><source src="
+https://www.xvideo.blog/videos_mega_importer/xvideos.com/4130/xvideos-irma--sexo-car-com-peituda.mp4
+" type="video/mp4" /><source src="
+https://www.xvideo.blog/videos_mega_importer/xvideos.com/4130/xvideos-irma--sexo-car-com-peituda.mp4
+" type="video/ogv" /><source src="
+https://www.xvideo.blog/videos_mega_importer/xvideos.com/4130/xvideos-irma--sexo-car-com-peituda.mp4
+" type="video/webm" /></video></center><HR NOSHADE SIZE="3" color="red">
+<!--------------------------------------------------------->
+<!---------------------autoplay------------------------->
+<center><h1>
+🔞PORNO🔞
+</h1><video width="992px"loop="true" autoplay="autoplay" controls muted><source src="
+LINK🔴
+" type="video/mp4" /><source src="
+LINK🔴
+" type="video/ogv" /><source src="
+LINK🔴
+" type="video/webm" /></video></center><HR NOSHADE SIZE="3" color="red">
+
+
+<button><video width="400" controls="controls" preload="metadata"><source src="
+LINK🔴
+#t=30.0" type="video/mp4"></video></button>
+<!--------------------------TAMANHO TXT------------------------------->
+
+<html>
+<body>
+<h1 style="font-size:150%">Um título</h1>
+<p style="font-size:180%">Um parágrafo</p>
+</body>
+</html>
+<!----
+<FONT SIZE=+2>Letra maior</FONT>
+------------->
+https://www.perfectgirls.net/
+https://www.pornocarioca.com/#lista-de-categorias
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+<button> <a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴 
+" width="310" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO🔴
+</h4><textarea rows="3" cols="30" maxlength="1500">
+SOBRE🔴
+</textarea></button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴 
+" width="310" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO🔴
+</h4><textarea rows="3" cols="30" maxlength="1500">
+SOBRE🔴
+</textarea></button>
+<!---------------------------------------------------->
+
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="345" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO
+</h4><textarea rows="6" cols="37" maxlength="1500">
+SOBRE
+</textarea></button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK🔴
+" target="_blank"><img src="
+IMAGEM🔴 
+" width="345" style="border: #0000FF Solid 10px;"></a><br/><h4>
+TÍTULO🔴
+</h4><textarea rows="3" cols="35" maxlength="1500">
+SOBRE🔴
+</textarea></button>
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+<!---------------------------------------------------->
+<!-----------------------" target="_self">------------------------>
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+<button> <a href="
+LINK
+" target="_blank"><img src="
+IMAGEM 
+" width="420" style="border: #ffcc66 Solid 10px;"></a><br/>
+NOME
+</button>
+<!---------------------------------------------------->
+
+
+
+<html lang="pt-br">
+<head>
+<title>LISTA</title>
+<link rel="sortcut icon" href="https://i.pinimg.com/564x/90/e6/10/90e610327e8d0435eb360dfd08bcea7d.jpg" type="image/gif" />
+</head>
+<body>
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="LISTA">
+<meta name="keywords" content="LISTA">
+<style>
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
+/*Link já visitado*/
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+/*Quando o mouse passa por cima*/
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+/*Link ativo/selecionado*/
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+</style>
+<html>
+<head>
+
+
+<center>
+
+
+
+<a href="
+LINK
+" style="color: #F00" target="_blank">
+OUTRA ABA
+</a>
+
+<img src="/logo.png" width="300">
+
+
+<a href="#" style="color: #F00">teste</a>
+
+
+
+Cor do link
+Azul é a cor padrão para links. Mas você pode alterar as cores dos seus links, inserindo estas tags dentro da tag <body>:
+
+link="cor"
+
+vlink="cor"
+
+Vlink são os "links visitados". Os links mudam de cor quando foram visitados. Se você não quiser que os links visitados mudem de cor, basta atribuir a mesma cor ao links e vlinks.
+
+Exemplo: <body link="green" vlink="green">
+
+
+
+<a href="mailto:seu_endereco_de_email">
+
+
+
+
+<!--------------------------------TXT--------------------------------->
+<br/><textarea rows="10" cols="100" maxlength="1500">
+TEXTO AQUI
+</textarea><BR/>
+
+<marquee> kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk <br></marquee>
+
+
+Marshall Brain
+        Fundador da HowStuffWorks
+Use as seguintes tags assim:
+
+<dl>
+<dt>Marshall Brain
+<dd>Fundador da HowStuffWorks
+</dl>
+
+
+
+
+
+Este texto é <small>pequeno</small>.
+
+Este texto é pequeno.
+
+Este texto é <big>grande</big>.
+
+Este texto é grande.
+<!----<FONT SIZE=+2>Letra maior</FONT>------------->
+
+<button><video width="400" controls="controls" preload="metadata"><source src="
+LINK
+#t=30.0" type="video/mp4"></video></button>
+
+
+
+
+
+<center>
+
+<a href="
+LINK
+" target="_blank"><h2>
+OUTRA ABA
+</h2></a>
+
+</center>
+
+<img src="/logo.png" width="300">
+
+
+--------------------------------------------------------------------
+
+<a href="
+LINK
+" target="_self">
+MESMA ABA
+</a>
+<img src="/logo.png" width="300">
+
+-----------------------------------------------
+
+
+
+
+https://www.youtube.com/watch?v=E7vib9-C4nU&ab_channel=PauloMoreno
+FORÇAR ESCREVA SE YOUTUBE
+?sub_confirmation=1
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg?sub_confirmation=1
+
+🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+EXEMPLO DRIVE ABRIR NA PAG
+
+https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview
+
+<button><a href="#" 
+target="popup" 
+onclick="window.open('https://drive.google.com/file/d/1sOMDLrzwCsEmz5DOyCH3jxV08FTuW_xf/preview','popup','width=1280,height=900'); return false;">
+EXEMPLO DRIVE ABRIR NA PAG
+</a></button>
+<!---_____________________________FOTO__________________________________-->
+https://drive.google.com/uc?export=download&id=LINKDRIVE
+
+https://drive.google.com/uc?export=view&id=CODIGODIVE
+<!---_______________________________DOWNLOADS________________________________-->
+https://docs.google.com/uc?export=download&id=CODIGODIVE
+<!---_______________________bom____VIDEO____________________-->
+https://drive.google.com/uc?export=download&id=1jZLSNPozpyyJLX0QTYddcGPa9j986GOo
+<!---_______________________________________________________________-->
+https://www.youtube.com/watch?v=hxXD1oghL0A&ab_channel=ZetaTech
+<!---_______________________________________________________________-->
+<a href="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" target="_blank"><img src="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" width="25%"></a>
+<!---_______________________________DOWNLOAD __________________________-->
+<a href="/images/visualdicas_logo.png" download="teste_visualdicas">Clique aqui </a>
+
+<!---_______________________________________________________________-->
+
+<meta http-equiv="refresh" content="5tempo em segundos; URL='url da pagina destino '"/>
+
+
+
+
+<a href="link/to/your/download/file" download="filename">Download link</a>
+
+https://www.ti-enxame.com/pt/html/como-posso-criar-link-de-download-em-html/970068887/
+
+
+
+
+Abra o documento vinculado em uma nova janela ou guia:
+
+ <a href="xyz.html" target="_blank"> Link </a>
+
+Abra o documento vinculado no mesmo quadro em que foi clicado (esse é o padrão):
+
+ <a href="xyz.html" target="_self"> Link </a>
+
+Abra o documento vinculado no quadro pai:
+
+ <a href="xyz.html" target="_parent"> Link </a>
+
+Abra o documento vinculado no corpo inteiro da janela:
+
+ <a href="xyz.html" target="_top"> Link </a>
+
+Abra o documento vinculado em um quadro nomeado:
+
+ <a href="xyz.html" target="framename"> Link </a>
+
+
+
+
+-------foto borda----------------------
+
+<A HREF="
+LINK
+" target="_blank"><FONT COLOR="#DF01D7"><IMG SRC="
+IMAGEM 
+" width="25%" ALT="PORNO" BORDER=4></FONT></A>
+
+" target="_self">
+
+-----------------------------------ancora---------------------------------------
+1º Metes a âncora no sitio que quiseres:
+<a name="ancora" id="ancora"></a>
+Depois o link para ir  ancora será assim:
+
+<a href="#ancora">ir   ancora </a>
+Se quiseres usar uma ancora noutra página fazes assim:
+
+<a href="ancora.html#ancora">ir   ancora de outra página </a>
+------------------------------->
+
+
+<MARQUEE BEHAVIOR=SCROLL WIDTH=100%>
+NOMEFILME
+</MARQUEE>
+
+<!------------------------usuariosonline---------------------------->
+
+https://usuariosonline.s12.com.br/
+
+<!------------------------contador---------------------------->
+
+https://contador.s12.com.br/
+
+<!------------------------M3U8 TMAMANHO E ESSE COM BOTAO----------------------------->
+<button class="button button2"><FONT SIZE=+2>NOME</FONT><!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></button><br></a></center><HR/><HR/>
+
+
+
+BOTAO
+
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {width: 250px;}
+.button2 {width: 50%;}
+.button3 {width: 100%;}
+</style>
+</head>
+<body>
+
+
+<button class="button button1">250px</button><br>
+<button class="button button2">50%</button><br>
+<button class="button button3">100%</button>
+
+
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body>
+
+<h2>Animated Button - "Pressed Effect"</h2>
+
+<button class="button">Click Me</button>
+
+</body>
+</html>
+
+
+
+
+<!------------------------------------------------------------------------->
+
+
+
+
+
+https://www.tenta.com.br/2019/06/texto-imagem.html
+
+<div style="float: left; WIDTH: 45%">
+<img src="
+https://www.themoviedb.org/t/p/w220_and_h330_face/6T0r3jBs0xbmzVnM9u7e3vUXMYk.jpg
+" width="23%">
+Sua Imagem à Esquerda</div>
+<div style="float: right; WIDTH: 30%">
+
+Seu Texto à Direita<br/>
+
+</div>
+<div style="clear: both">
+</div>
+
+
+<font color="red">Este texto é vermelho!</font>
+
+
+
+<!------------<FONT SIZE=+2>Letra maior</FONT>---------------------->
+https://www.gsigma.ufsc.br/~popov/aulas/bd1/progweb/basicow95/fontes.html
+<FONT SIZE=+2>Letra maior</FONT>
+
+
+<video width="470" height="255" controls>
+    <source src="video.mp4" type="video/mp4">
+    <source src="video.ogg" type="video/ogg">
+    <source src="video.webm" type="video/webm">
+    <object data="video.mp4" width="470" height="255">
+    <embed src="video.swf" width="470" height="255">
+    </object>
+</video>
+
+
+
+<video width="470" height="255" poster="
+IMAGEM
+" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg"><source src="
+LINK
+" type="video/webm"><object data="
+LINK
+" width="470" height="255"><embed src="
+LINK
+" width="470" height="255"></object></video>
+
+
+
+<video width="320" height="240" controls>
+<source src="movie.mp4" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+<source src="movie.webm" type="video/webm">
+<object data="movie.mp4" width="320" height="240">
+<embed src="movie.swf" width="320" height="240">
+</object>
+</video>
+
+
+<video controls>
+    <source src="example.mp4" type="video/mp4">
+    <source src="example.webm" type="video/webm">
+    <track kind="subtitles" src="subtitles_en.vtt" srclang="en">
+</video>
+
+
+<video width="400" controls="controls" preload="metadata">
+  <source src="https://www.w3schools.com/html/mov_bbb.mp4#t=0.5" type="video/mp4">
+</video>
+
+
+
+
+Add #t=0.1 to your video source, like below
+
+<video width="320" height="240" controls>
+  <source src="video.mp4#t=0.1" type="video/mp4">
+</video>
+
+
+<!---_____________________________FOTO__________________________________-->
+https://drive.google.com/uc?export=view&id=CODIGO DIVE
+
+
+
+<meta charset="utf-8">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>SANTOS</title>
+</head>
+<body>
+<link rel="sortcut icon" href="https://www.googleapis.com/drive/v3/files/1nFlEXqdCTX8_U-5_VtwCm7RDfViKBQPu?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="SANTOS">
+<meta name="keywords" content="SANTOS">
+<center>
+<!---------------------------------------------------------------------->
+
+
+<!---_____________________________FOTO__________________________________-->
+https://drive.google.com/uc?export=view&id=CODIGO DIVE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+<A HREF="
+LINK
+" target="_blank"><FONT COLOR="#DF01D7"><IMG SRC="
+IMAGEM 
+" width="25%" ALT="PORNO" BORDER=4></FONT></A>
+
+
+
+
+<center>
+
+<a href="
+LINK
+" target="_blank">
+OUTRA ABA
+</a>
+
+</center>
+
+<img src="/logo.png" width="100">
+
+
+--------------------------------------------------------------------
+
+<a href="
+LINK
+" target="_self">
+MESMA ABA
+</a>
+<img src="/logo.png" width="100">
+
+-----------------------------------------------
+NOME SANTOS
+https://upload.wikimedia.org/wikipedia/commons/1/1a/Via%C3%A7%C3%A3o_Santos_Logo.png
+
+
+
+
+<!--------------------------------------------------->
+
+<center><FONT COLOR="#00FFFF"><b><u><h2>
+NOME
+</h2></u></b></FONT><br/><br/><br/><div style="float: left; WIDTH: 70%"><img src="
+IMAGEM
+" width="40%"><div class="column FILMES"><div class="content"><h2>
+NOMECANAL
+</h2><!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></div></div></div></center><div style="float: right; WIDTH: 60%"><FONT SIZE=+2><FONT COLOR="#FFFFFF"><b>GÊNERO:</b></FONT></FONT><FONT SIZE=+1><FONT COLOR="#FFFF00">
+GENERO
+</FONT></FONT><FONT SIZE=+2><br/><FONT COLOR="#FFFFFF"><b>SINOPSE:</b></FONT></FONT><FONT SIZE=+1><FONT COLOR="#FFFF00">
+SINOPSE:
+</FONT></FONT></div>
+<div style="clear: both"></div><br/></td> </tr></table><center><a href="
+LINK
+" target="_blank"><button class="button button2"><FONT SIZE=+2>DOWNLOAD</FONT></button><br></a></center><HR/><HR/>
+<!-------------------------------------------------------->
+<!-----------------------------
+https://megacontador.com.br/
+----------------------------->
+<!--------------------------ANCORA------------------------------>
+
+O código de destino, isto é, o ponto de chegada ao ser clicado é:
+Código: <a name="ancora">
+E o código do comando "ir para" é:
+Código: <a href="#ancora">ir para ancora</a>
+Você pode criar vários pontos, como:
+<a name="ancora2"> e <a href="#ancora2">ir para ancora2</a>
+Para fazer o usuário "Ir para o topo" não é necessário uma âncora como acima, tem um código especial para isto:
+Código: <a href="#top">Ir para o topo</a>
+Para ir à outra página:
+Código: <a href="nomedapagina.html#ancora">ir para ancora</a>
+Utilizando uma imagem como âncora:
+Código: <a href="#ancora"><img src="imagem.jpg"></a>
+
+
+
+<!--------------------------------------------------->
+
+<center><FONT COLOR="#00FFFF"><b><u><h2>
+DOCE TENTAÇÃO
+</h2></u></b></FONT><br/><br/><br/><video width="85%" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg"><source src="
+LINK
+" type="video/webm"><object data="
+LINK
+" width="85%"><embed src="
+LINK
+" width="85%"></object></video><br/><div style="float: left; WIDTH: 40%"><img src="
+IMAGEM
+" width="40%"></div></center><div style="float: right; WIDTH: 60%"><FONT SIZE=+2><FONT COLOR="#FFFFFF"><b>GÊNERO:</b></FONT></FONT><FONT SIZE=+1><FONT COLOR="#FFFF00">
+GENERO
+</FONT></FONT><FONT SIZE=+2><br/><FONT COLOR="#FFFFFF"><b>SINOPSE:</b></FONT></FONT><FONT SIZE=+1><FONT COLOR="#FFFF00">
+SINOPSE:
+</FONT></FONT></div>
+<div style="clear: both"></div><br/></td> </tr></table><center><a href="
+LINK
+" target="_blank"><button class="button button2"><FONT SIZE=+2>DOWNLOAD</FONT></button><br></a></center><HR/><HR/>
+<!-------------------------------------------------------->
+<!-----------------------------
+https://megacontador.com.br/
+----------------------------->
+<!-------------------------------------------------------->
+
+<!-------------------------------------------------------->
+
+
+
+
+
+<br/><br/><br/>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #40FF00}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #0000FF; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {width: 250px;}
+.button2 {width: 50%;}
+.button3 {width: 100%;}
+</style>
+</head>
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h2 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+
+<body bgcolor="#DF013A">
+<body bgcolor="rgb(0,0,0)">
+<body bgcolor="black">
+</center>
+
+<!--------------------------------------------------->
+<!--------------------------------------------------->
+<BR/><h3>
+NOMEFILME
+</h3><table><tr><td><video controls width="100%" height="100%"  poster="
+IMAGEM
+"><source src="
+LINK
+" /><source src="
+LINK
+" type="video/ogg" /><source src="
+LINK
+" type="video/webm" /></video>​</td><td> 
+<FONT COLOR="#FFFF00">GÊNERO:</FONT><FONT COLOR="#00FFFF">
+GENERO
+</FONT><BR/><FONT COLOR="#FFFF00">SOBRE:</FONT><FONT COLOR="#00FFFF">
+SOBRE
+</FONT><BR/></td> </tr></table>
+<!--------------------------------------------------->
+<!---------------------------------------------------------------------->
+<button onclick="window.open('LINK','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); "><FONT COLOR="#40FF00"><img src="
+IMAGEM
+" width="160" border="5px"></FONT></a></button>
+
+
+
+<!---------------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+<body>
+<!---------------------------------------------------------------------->
+<center>
+
+<video width="854" height="480" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg">Your browser does not support the video tag.</video>
+
+</center>
+<!---------------------------------------------------------------------->
+</body>
+</html>
+
+
+<!---------------------------------------------------------------------->
+<center>
+
+<video width="854" height="480" poster="
+IMAGEM
+" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg"><source src="
+LINK
+" type="video/webm"><object data="
+LINK
+" width="470" height="255"><embed src="
+LINK
+" width="470" height="255"></object></video>
+
+</center>
+<!------------------------------------------------------------------------>
+<video width="320" height="240" controls autoplay><source src="
+LINK
+" type="video/ogg"><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/webm"><object data="
+LINK
+" width="320" height="240"><embed width="320" height="240" src="
+LINK
+"></object></video>
+<!------------------------------------------------------------------------>
+<!---------------------------------------------------------------------->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.xvideosxbr.com.br/"target="_blank">
+<img width="110" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" alt=""></a>
+<!---------------------------------------------------------------------->
+<a href="https://api.whatsapp.com/send?text=
+LINKWHATZAPP
+"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/766px-WhatsApp.svg.png" alt="some text" width=110>
+<!---------------------------------------------------------------------->
+</a><img src="
+LINKQR
+" alt="some text" width=110>
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<p><h2>PORNO</h2><BR/><video width="420" height="240" poster="
+IMAGEM
+" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg">Your browser does not support the video tag.</video><a href="
+LINKFONTE
+" target="_blank"><br>/FONTE</a></button></a></div></div><a href="https://www.facebook.com/sharer/sharer.php?u=
+LINKfacebook
+" target="_blank"><img src="https://phoneky.co.uk/thumbs/screensavers/down/signs/facebooklo_3VnvEDHU.gif" width="100"></a><a href="https://api.whatsapp.com/send?text=
+LINKwhatapp
+"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/766px-WhatsApp.svg.png" alt="some text" width=110></a><img src="
+LINKQR
+" alt="some text" width=110>
+
+
+
+
+
+<!------------------------------bordas--------------------------------->
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <h2>Bordered Image</h2>
+  <p>The w3-border class adds borders around the image.</p>
+  <p>Padding added wil be inside the borders:</p>
+  <img src="img_snowtops.jpg" class="w3-border" alt="Norway" style="padding:4px;width:50%">
+
+  <p>More padding:</p>
+  <img src="img_snowtops.jpg" class="w3-border" alt="Norway" style="padding:16px;width:50%">
+</div>
+
+</body>
+</html>
+<!-------------------------------2015-------------------------------->
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-teal">
+  <h1>Summer 2015</h1>
+</div>
+
+<div class="w3-row-padding w3-margin-top">
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="img_5terre.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5>5 Terre</h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="img_monterosso.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5>Monterosso</h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="img_vernazza.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5>Vernazza</h5>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="w3-row-padding w3-margin-top">
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="img_manarola.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5>Manarola</h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="img_corniglia.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5>Corniglia</h5>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-third">
+    <div class="w3-card">
+      <img src="img_riomaggiore.jpg" style="width:100%">
+      <div class="w3-container">
+        <h5>Riomaggiore</h5>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+<!--------------------------------fotos------------------------------>
+
+<html>
+<head>
+<style>
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Responsive Image Gallery</h2>
+<h4>Resize the browser window to see the effect.</h4>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_5terre.jpg">
+      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_forest.jpg">
+      <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_lights.jpg">
+      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_mountains.jpg">
+      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+<div style="padding:6px;">
+  <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
+  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
+</div>
+
+</body>
+</html>
+
+<!------------------------------------------------------------------------>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 20px;
+  font-family: Arial;
+}
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<!-- MAIN (Center website) -->
+<div class="main">
+
+<h1>MYLOGO.COM</h1>
+<hr>
+
+<h2>PORTFOLIO</h2>
+<p>Resize the browser window to see the responsive effect.</p>
+
+<!-- Portfolio Gallery Grid -->
+<div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+    <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    </div>
+  </div>
+<!-- END GRID -->
+</div>
+
+<div class="content">
+  <img src="/w3images/p3.jpg" alt="Bear" style="width:100%">
+  <h3>Some Other Work</h3>
+  <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+  <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+</div>
+
+<!-- END MAIN -->
+</div>
+
+</body>
+</html>
+------------------------------------->
+
+
+
+
+
+
+
+
+<BR/><HR/>
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</html>
+
+
+
+
+<html>
+
+
+
+<u><BR/><HR/>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<SCRIPT LANGUAGE="JAVASCRIPT">
+<!--
+var now = new Date();
+var mName = now.getMonth() +1 ;
+var dName = now.getDay() +1;
+var dayNr = now.getDate();
+var yearNr=now.getYear();
+if(dName==1) {Day = "Domingo";}
+if(dName==2) {Day = "Segunda-feira";}
+if(dName==3) {Day = "Terça-feira";}
+if(dName==4) {Day = "Quarta-feira";}
+if(dName==5) {Day = "Quinta-feira";}
+if(dName==6) {Day = "Sexta-feira";}
+if(dName==7) {Day = "Sábado";}
+if(mName==1){Month = "Janeiro";}
+if(mName==2){Month = "Fevereiro";}
+if(mName==3){Month = "Março";}
+if(mName==4){Month = "Abril";}
+if(mName==5){Month = "Maio";}
+if(mName==6){Month = "Junho";}
+if(mName==7){Month = "Julho";}
+if(mName==8){Month = "Agosto";}
+if(mName==9){Month = "Setembro";}
+if(mName==10){Month = "Outubro";}
+if(mName==11){Month = "Novembro";}
+if(mName==12){Month = "Dezembro";}
+if(yearNr < 2000) {Year = 1900 + yearNr;}
+else {Year = yearNr;}
+var todaysDate =(" " + Day + ", " + dayNr + "/" + Month + "/" + Year);
+document.write('  '+todaysDate);
+//-->
+</SCRIPT>
+<SPAN ID="Clock">00:00:00</SPAN>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+  var Elem = document.getElementById("Clock");
+  function Horario(){ 
+    var Hoje = new Date(); 
+    var Horas = Hoje.getHours(); 
+    if(Horas < 10){ 
+      Horas = "0"+Horas; 
+    } 
+    var Minutos = Hoje.getMinutes(); 
+    if(Minutos < 10){ 
+      Minutos = "0"+Minutos; 
+    } 
+    var Segundos = Hoje.getSeconds(); 
+    if(Segundos < 10){ 
+      Segundos = "0"+Segundos; 
+    } 
+    Elem.innerHTML = Horas+":"+Minutos+":"+Segundos; 
+    } 
+    window.setInterval("Horario()",1000);
+//-->
+</SCRIPT>
+</body>
+</html></u>
+<BR/><HR/>
+
+
+
+<a download="pagina.html" href="data:text/html;charset=utf-8,<html><body><b><h2><center>COPIE E COLE NO NAVEGADOR O LINK A BAIXO</h2></b><u><i><h4>
+<ol><li>
+UPLOADS DE FOTOS:  https://filmessantos-201.imgbb.com/
+</li><li>
+GERADOR DE LINK DRIVE: https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+</li><li>
+SUPERSITE:  https://santos246.github.io/SUPERSITEINICIO/
+</li><li>
+</ol></center></h4></i></u></body></html>">Clique aqui</a>
+
+
+
+
+IMAGEM ZOOM
+<script language="javascript">
+<!--
+function expand(obj){
+    obj.height=obj.height*2.4;
+    obj.width=obj.width*2.4;
+}
+
+function shorten(obj){
+    obj.height=obj.height/2.4;
+    obj.width=obj.width/2.4;
+}
+//-->
+</script>
+
+<center>
+<img src="Url da imagem aqui" width='100' height='100' alt="Nome da imagem" onMouseOver="expand(this)" onMouseOut="shorten(this)">
+</center>
+
+
+IMAGEM FRAIME
+
+
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+  <h2>Bordered Image</h2>
+  <p>The w3-border class adds borders around the image.</p>
+  <p>Padding added wil be inside the borders:</p>
+  <img src="img_snowtops.jpg" class="w3-border" alt="Norway" style="padding:4px;width:50%">
+
+  <p>More padding:</p>
+  <img src="img_snowtops.jpg" class="w3-border" alt="Norway" style="padding:16px;width:50%">
+</div>
+
+</body>
+</html>
+
+
+<A HREF="URL"><IMG SRC="imagem" ALT="descrição" BORDER=5></A>
+<A HREF="URL"><IMG SRC="imagem" ALT="descrição" BORDER=5></A>
+
+<button onclick="window.open('LINK','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); "><img src="
+IMAGEM
+" alt="Nature" style="width:100%"><br/>CLIQUE AQUI<br/>
+SOBRE
+</a></button><br/>
+<a href="http://seunome.Y.com.etc/seuarquivo.zip" target=_blank">Clique aqui...</a>
+
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>TÍTULO</title>
+<link rel="sortcut icon" href="IMAGEM" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="DESCRIÇÃO SOBRE O SITE">
+<meta name="keywords" content="tang, tang, tang">
+<CENTER>	
+
+<link rel = "shortcut icon" type = "imagem/x-icon" href = "/imagens/icone_ie.ico"/>
+
+<link rel="icon" type="imagem/png" href="/imagens/meufavicon.png" />
+
+<link rel="icon" href="/imagens/animated_favicon1.gif" type="imagem/gif">
+
+
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>TÍTULO</title>
+<link rel="sortcut icon" href="IMAGEM" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="DESCRIÇÃO SOBRE O SITE">
+<meta name="keywords" content="tang, tang, tang">
+<CENTER>	
+
+<link rel = "shortcut icon" type = "imagem/x-icon" href = "/imagens/icone_ie.ico"/>
+
+<link rel="icon" type="imagem/png" href="/imagens/meufavicon.png" />
+
+<link rel="icon" href="/imagens/animated_favicon1.gif" type="imagem/gif">
+
+
+</head>
+<body>
+<center><font color="red">
+<FONT FACE=Courier COLOR="#AA0000"><div style="font-size: 250%"><h1>NOME DO SITE</h1></div></FONT>
+<img src="
+IMAGEM
+" width="300px"><h3>BEM VINDO</h3>
+<!---------------------------------------------------------------------->
+<FONT FACE=Arial COLOR="#00AA00">
+<!---------------------------------------------------------------------->
+<script src="https://code.jquery.com/jquery-1.11.2.js"></script>
+<script type="text/javascript">
+jQuery(window).load(function($){
+atualizaRelogio();
+});
+</script>
+</HEAD>
+<BODY>
+<div>
+<output id="data" style="font-family: 'arial black', 'avant garde'; font-size: 24px;"></output>
+</div>
+<div>
+<output id="hora" style="font-family: 'arial black', 'avant garde'; font-size: 24px;"></output>				
+</div>			
+</BODY>
+<script>
+function atualizaRelogio(){ 
+var momentoAtual = new Date();
+var vhora = momentoAtual.getHours();
+var vminuto = momentoAtual.getMinutes();
+var vsegundo = momentoAtual.getSeconds();
+var vdia = momentoAtual.getDate();
+var vmes = momentoAtual.getMonth() + 1;
+var vano = momentoAtual.getFullYear();
+if (vdia < 10){ vdia = "0" + vdia;}
+if (vmes < 10){ vmes = "0" + vmes;}
+if (vhora < 10){ vhora = "0" + vhora;}
+if (vminuto < 10){ vminuto = "0" + vminuto;}
+if (vsegundo < 10){ vsegundo = "0" + vsegundo;}
+dataFormat = vdia + " / " + vmes + " / " + vano;
+horaFormat = vhora + " : " + vminuto + " : " + vsegundo;
+document.getElementById("data").innerHTML = dataFormat;
+document.getElementById("hora").innerHTML = horaFormat;
+setTimeout("atualizaRelogio()",1000);
+}
+</script>	
+</HTML>
+<!---_______________________________________________________________--><hr/>
+
+
+
+<center>
+
+<img src="
+IMAGEM
+" width="25%">
+-----------------------------M3U8--
+<!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL">
+  </video><script>var player = videojs('my_video_1');player.play();</script></body></html>
+
+</center>
+
+<!------------------------------------------------------------------------>
+
+  <button onclick="window.open('PASTA/Novo Documento de Texto.txt','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); "><h1>INGREDIENTES</h1></button>
+
+
+
+
+  <button onclick="window.open('http://www.code3000.blogspot.pt/','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); ">Abrir popup</button>
+<!----------------------------------------------------------------------><hr/>
+        <td style="font-family:arial; font-size:11px; text-align:center" valign="top">
+            <a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank">
+<img src="https://yata-apix-074c0c14-deca-4c2a-80dc-52cfab49f090.lss.locawebcorp.com.br/838df2ff0ef04e1585a89e7c89944a7f.gif" width="200" border="5" />
+               
+            </a>
+        </td>
+        <td style="font-family:arial; font-size:12px; padding-left:10px">
+            <strong>SANTOS</strong><br />
+            <strong>Fone:</strong> (XX) XXXX XXXX<br />
+            <strong>MEU:</strong> <a href="https://www.facebook.com/santos12164" target="_blank">FACEBOOK</a><br />
+            <strong>MEU:</strong> <a href="https://www.instagram.com/santos0398/" target="_blank">INSTAGRAM</a><br />
+            <strong>OUTRO SITE:</strong> <a href="LINKAQUI" target="_blank">SITEAQUI</a><br />
+
+COMPARTILHE ESSE SITE NO FACEBOOK
+<!--FACEBOOK-->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+
+
+
+        </td> 
+    </tr>
+</table>
+<hr />
+
+        </div>
+        </div>
+        </div>
+    </body>
+</html> 
+
+<!----------------------------------------------------------------------><hr/>
+
+
+
+
+
+
+https://cse.google.com/cse/all
+
+https://www.homehost.com.br/blog/tutoriais/links-html/
+
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+<a href="#" onclick="window.open('LINK','popup','width=580,height=600,left=700,top=0');"> <img src="
+IMAGEM
+" width="20%"></a>
+<!---_____________________________FOTO__________________________________-->
+https://drive.google.com/uc?export=view&id=CODIGODIVE
+<!---_______________________________DOWNLOADS________________________________-->
+https://docs.google.com/uc?export=download&id=CODIGODIVE
+<!---_______________________bom____VIDEO____________________-->
+https://drive.google.com/uc?export=download&id=1jZLSNPozpyyJLX0QTYddcGPa9j986GOo
+<!---_______________________________________________________________-->
+https://www.youtube.com/watch?v=hxXD1oghL0A&ab_channel=ZetaTech
+<!---_______________________________________________________________-->
+<a href="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" target="_blank"><img src="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" width="25%"></a>
+<!---_______________________________DOWNLOAD __________________________-->
+<a href="/images/visualdicas_logo.png" download="teste_visualdicas">Clique aqui </a>
+
+<!---_______________________________________________________________-->
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>TÍTULO</title>
+<link rel="sortcut icon" href="IMAGEM" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="DESCRIÇÃO SOBRE O SITE">
+<meta name="keywords" content="tang, tang, tang">
+<center>
+<!---------------------FAIXA AZUL----------------------->  _self
+<a href="https://www.homehost.com.br/" target="_blank">
+<div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white">FAIXA AZUL</p></div></a>
+
+<!---------------------FAIXA AZUL----------------------->  
+<a href="https://www.homehost.com.br/" target="_self">
+<div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white"><FONT SIZE=+2>IR PARA O INÍCIO</FONT></p></div></a>
+<!-----------------------------------
+<style>
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+/*Link já visitado*/
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+/*Quando o mouse passa por cima*/
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+
+/*Link ativo/selecionado*/
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+</style>
+-----------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    a{
+        text-decoration: none;
+        background-color: yellow;
+        color: red;
+        border: 1px solid blue
+        padding:3px 5px;
+    }
+</style>
+</head>
+
+<body>
+    <a href="">
+        Meu link personalizado
+    </a>
+</body>
+<html>
+
+-----------------------------------
+IMAGEM E FILMES DRIVE
+-----------------------------------
+https://drive.google.com/uc?export=view&id=
+LINK
+----------------------------------->
+https://drive.google.com/uc?export=view&id=[FileId]
+
+https://drive.google.com/uc?export=view&id=CODIGO DIVE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<a href="
+https://santos246.github.io/SANTOSFILMES/
+" target="_blank">
+OUTRA ABA
+</a>
+<img src="/logo.png" width="100">
+--------------------------------------------------------------------
+
+<a href="
+LINK
+" target="_self">
+MESMA ABA
+</a>
+<img src="/logo.png" width="100">
+
+-----------------------------------------------
+
+
+<img src="/logo.png" width="100">
+
+
+
+<img src="/logo.png" width="100">
+
+
+
+<MARQUEE BEHAVIOR=SCROLL WIDTH=100%>
+NOMEFILME
+</MARQUEE>
+
+
+<video width="420" height="240" poster="
+IMAGEM
+" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg">Your browser does not support the video tag.</video><a href="
+LINKFONTE
+" target="_blank">5</a>
+
+
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+<img src="img_snowtops.jpg" class="w3-border" alt="Norway" style="padding:16px;width:50%">
+</div>
+
+</body>
+</html>
+
+<BR/><HR/>
+<!-------------INCREVA-SE NO MEU CANAL YOUTUBE---------------------------->
+INCREVA-SE NO MEU CANAL YOUTUBE<br/>
+<a href="
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg?sub_confirmation=1
+" target="_blank">
+<img src="https://img.ibxk.com.br/2020/03/04/04134343768227.jpg" width="150">
+</a><br/>
+<!---------------------------FACEBOOK---------------------------->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+<!---------------------------------------------------------------------->
+<!-------------------------WHATZAPP--------------------------------->
+<style> #imagem_whats{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right} #imagem_whats2{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right;display:none} @media only screen and (max-width: 999px) and (min-width: 100px){#imagem_whats{display:none}#imagem_whats2{display:block}}</style><img id="imagem_whats" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://web.whatsapp.com/send?phone=+5585988885153&amp;text=Olá!❤️ GOSTEI DE SEU SITE E GOSTARIA DE DIZER QUE ...', '_blank');"><img id="imagem_whats2" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://api.whatsapp.com/send?phone=+556200000000&amp;text=Olá!SANTOS, QUERIA FALAR QUE...', '_blank');"><div class="preloader"> <div class="preloaderimg"></div></div>
+<!---------------------------------------------------------------------->
+NAO ESTA FUCIONANDO? <br/> FALE COMIGO P/ WHATSAPP
+<!-------------------------WHATSAPP E EMAIL----------------------------->
+<p>
+<a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20❤️SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank"><img src="https://static.wixstatic.com/media/84bd10_5b3ce28905c64674a4147f1f08878723~mv2.gif" width="100"></a>
+</p>
+<p>©<br><a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+<br/></p></h6>
+<h4>FIM</h4>
+</center>
+</body>
+</html><span id='FIM'></span>
+<!------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------->
+<hr>
+</div>
+<footer class="w3-container w3-theme">
+<a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+</footer>
+</body>
+</center>
+
+=============================================================================
+
+<a download="pagina.html" href="data:text/html;charset=utf-8,<html><body><b><h2><center>COPIE E COLE NO NAVEGADOR O LINK A BAIXO</h2></b><u><i><h4>
+<ol><li>
+NOME
+</li><li>
+NOME
+</li><li>
+NOME
+</li><li>
+
+</ol></center></h4></i></u></body></html>">Clique aqui</a>
+
+
+
+<a download="pagina.html" href="data:text/html;charset=utf-8,<html><body><b><h2><center>COPIE E COLE NO NAVEGADOR O LINK A BAIXO</h2></b><u><i><h4>
+<ol><li>
+UPLOADS DE FOTOS:  https://filmessantos-201.imgbb.com/
+</li><li>
+GERADOR DE LINK DRIVE: https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+</li><li>
+SUPERSITE:  https://santos246.github.io/SUPERSITEINICIO/
+</li><li>
+
+</ol></center></h4></i></u></body></html>">Clique aqui</a>
+
+
+<!---------------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+</style>
+</head>
+<body>
+</body>
+<!---------------------------------------------------------------------->
+<a class="fa fa-envelope" href="mailto:?subject=&body=:%20" target="_blank=" title="Email"onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL)); return false;">ENVIE ESSE PARA O EMAIL DE ALGUEM</a></a>
+
+<!----------------------------------------------------------------------><hr/>
+        <td style="font-family:arial; font-size:11px; text-align:center" valign="top">
+            <a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank">
+<img src="https://yata-apix-074c0c14-deca-4c2a-80dc-52cfab49f090.lss.locawebcorp.com.br/838df2ff0ef04e1585a89e7c89944a7f.gif" width="200" border="5" />
+               
+            </a>
+        </td>
+        <td style="font-family:arial; font-size:12px; padding-left:10px">
+            <strong>SANTOS</strong><br />
+            <strong>Fone:</strong> (XX) XXXX XXXX<br />
+            <strong>MEU:</strong> <a href="https://www.facebook.com/santos12164" target="_blank">FACEBOOK</a><br />
+            <strong>MEU:</strong> <a href="https://www.instagram.com/santos0398/" target="_blank">INSTAGRAM</a><br />
+            <strong>OUTRO SITE:</strong> <a href="LINKAQUI" target="_blank">SITEAQUI</a><br />
+
+
+
+
+COMPARTILHE ESSE SITE NO FACEBOOK<BR/>
+<!--FACEBOOK-->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+
+
+
+        </td> 
+    </tr>
+</table>
+<hr />
+
+        </div>
+        </div>
+        </div>
+    </body>
+</html> 
+</CENTER>
+<!----------------------------------------------------------------------><hr/>
+
+
+
+
+
+
+
+
+<!----------------------------------------------------------------------><hr/>
+        <td style="font-family:arial; font-size:11px; text-align:center" valign="top">
+            <a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank">
+<img src="https://yata-apix-074c0c14-deca-4c2a-80dc-52cfab49f090.lss.locawebcorp.com.br/838df2ff0ef04e1585a89e7c89944a7f.gif" width="200" border="5" />
+               
+            </a>
+        </td>
+        <td style="font-family:arial; font-size:12px; padding-left:10px">
+            <strong>SANTOS</strong><br />
+            <strong>Fone:</strong> (XX) XXXX XXXX<br />
+            <strong>MEU:</strong> <a href="https://www.facebook.com/santos12164" target="_blank">FACEBOOK</a><br />
+            <strong>MEU:</strong> <a href="https://www.instagram.com/santos0398/" target="_blank">INSTAGRAM</a><br />
+            <strong>OUTRO SITE:</strong> <a href="LINKAQUI" target="_blank">SITEAQUI</a><br />
+
+COMPARTILHE ESSE SITE NO FACEBOOK
+<!--FACEBOOK-->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+
+
+
+        </td> 
+    </tr>
+</table>
+<hr />
+
+        </div>
+        </div>
+        </div>
+    </body>
+</html> 
+
+<!----------------------------------------------------------------------><hr/>
+
+
+
+
+
+
+
+
+https://cse.google.com/cse/all
+
+https://www.homehost.com.br/blog/tutoriais/links-html/
+
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+<a href="#" onclick="window.open('LINK','popup','width=580,height=600,left=700,top=0');"> <img src="
+IMAGEM
+" width="20%"></a>
+<!---_____________________________FOTO__________________________________-->
+https://drive.google.com/uc?export=view&id=CODIGO DIVE
+<!---_______________________________DOWNLOADS________________________________-->
+https://docs.google.com/uc?export=download&id=
+
+<!---_______________________________________________________________-->
+https://www.youtube.com/watch?v=hxXD1oghL0A&ab_channel=ZetaTech
+<!---_______________________________________________________________-->
+<a href="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" target="_blank"><img src="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" width="25%"></a>
+<!---_______________________________DOWNLOAD __________________________-->
+<a href="/images/visualdicas_logo.png" download="teste_visualdicas">Clique aqui </a>
+<a href="/images/visualdicas_logo.png" download>Clique aqui </a>
+
+<!---_______________________________________________________________-->
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>TÍTULO</title>
+<link rel="sortcut icon" href="IMAGEM" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="DESCRIÇÃO SOBRE O SITE">
+<meta name="keywords" content="tang, tang, tang">
+<center>
+<!---------------------------FAIXA AZUL-------------------------------------->
+<a href="https://www.homehost.com.br/" target="_blank">
+<div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white">FAIXA AZUL</p></div></a>
+<!-----------------------------------
+<style>
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+/*Link já visitado*/
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+/*Quando o mouse passa por cima*/
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+
+/*Link ativo/selecionado*/
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+</style>
+-----------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    a{
+        text-decoration: none;
+        background-color: yellow;
+        color: red;
+        border: 1px solid blue
+        padding:3px 5px;
+    }
+</style>
+</head>
+
+<body>
+    <a href="">
+        Meu link personalizado
+    </a>
+</body>
+<html>
+
+-----------------------------------
+IMAGEM E FILMES DRIVE
+-----------------------------------
+https://drive.google.com/uc?export=view&id=
+LINK
+----------------------------------->
+https://drive.google.com/uc?export=view&id=[FileId]
+
+https://drive.google.com/uc?export=view&id=CODIGO DIVE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<a href="
+https://santos246.github.io/SANTOSFILMES/
+" target="_blank">
+OUTRA ABA
+</a>
+<img src="/logo.png" width="100">
+--------------------------------------------------------------------
+
+<a href="
+LINK
+" target="_self">
+MESMA ABA
+</a>
+
+<img src="/logo.png" width="100">
+-----------------------------------------------
+
+
+<img src="/logo.png" width="100">
+
+
+
+<img src="/logo.png" width="100">
+
+
+
+<MARQUEE BEHAVIOR=SCROLL WIDTH=100%>
+NOMEFILME
+</MARQUEE>
+
+
+<video width="420" height="240" poster="
+IMAGEM
+" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg">Your browser does not support the video tag.</video><a href="
+LINKFONTE
+" target="_blank">5</a>
+
+
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+<img src="img_snowtops.jpg" class="w3-border" alt="Norway" style="padding:16px;width:50%">
+</div>
+
+</body>
+</html>
+
+<BR/><HR/>
+<!-------------INCREVA-SE NO MEU CANAL YOUTUBE---------------------------->
+INCREVA-SE NO MEU CANAL YOUTUBE<br/>
+<a href="
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg?sub_confirmation=1
+" target="_blank">
+<img src="https://img.ibxk.com.br/2020/03/04/04134343768227.jpg" width="150">
+</a><br/>
+<!---------------------------FACEBOOK---------------------------->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+<!---------------------------------------------------------------------->
+<!-------------------------WHATZAPP--------------------------------->
+<style> #imagem_whats{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right} #imagem_whats2{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right;display:none} @media only screen and (max-width: 999px) and (min-width: 100px){#imagem_whats{display:none}#imagem_whats2{display:block}}</style><img id="imagem_whats" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://web.whatsapp.com/send?phone=+5585988885153&amp;text=Olá!❤️ GOSTEI DE SEU SITE E GOSTARIA DE DIZER QUE ...', '_blank');"><img id="imagem_whats2" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://api.whatsapp.com/send?phone=+556200000000&amp;text=Olá!SANTOS, QUERIA FALAR QUE...', '_blank');"><div class="preloader"> <div class="preloaderimg"></div></div>
+<!---------------------------------------------------------------------->
+NAO ESTA FUCIONANDO? <br/> FALE COMIGO P/ WHATSAPP
+<!-------------------------WHATSAPP E EMAIL----------------------------->
+<p>
+<a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20❤️SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank"><img src="https://static.wixstatic.com/media/84bd10_5b3ce28905c64674a4147f1f08878723~mv2.gif" width="100"></a>
+</p>
+<p>©<br><a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+<br/></p></h6>
+<h4>FIM</h4>
+</center>
+</body>
+</html><span id='FIM'></span>
+<!------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------->
+<hr>
+</div>
+<footer class="w3-container w3-theme">
+<a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+</footer>
+</body>
+</center>
+
+=============================================================================
+
+<a download="pagina.html" href="data:text/html;charset=utf-8,<html><body><b><h2><center>COPIE E COLE NO NAVEGADOR O LINK A BAIXO</h2></b><u><i><h4>
+<ol><li>
+NOME
+</li><li>
+NOME
+</li><li>
+NOME
+</li><li>
+
+</ol></center></h4></i></u></body></html>">Clique aqui</a>
+
+
+
+<a download="pagina.html" href="data:text/html;charset=utf-8,<html><body><b><h2><center>COPIE E COLE NO NAVEGADOR O LINK A BAIXO</h2></b><u><i><h4>
+<ol><li>
+UPLOADS DE FOTOS:  https://filmessantos-201.imgbb.com/
+</li><li>
+GERADOR DE LINK DRIVE: https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+</li><li>
+SUPERSITE:  https://santos246.github.io/SUPERSITEINICIO/
+</li><li>
+
+</ol></center></h4></i></u></body></html>">Clique aqui</a>
+
+
+
+
+
+
+
+
+
+
+=====================================
+https://sites.google.com/view/filmessantos2017tv/in%C3%ADcio
+=====================================
+
+<table>
+	<tr  bgcolor="#777777">
+		<td>
+			<font face="Monotype Corsiva, Verdana" size="4" color="#00FF00">A tag desse parágrafo tem um plano de fundo cinza, com fonte verde. Você deve ver a fonte Monotype Corsiva, se você a tiver instalada, ou Verdana como backup. Ambas fontes são largamente aceitas como fonte padrão.</font>
+		</td>
+	</tr
+<!------------------------------------NOTICIAS---------------------------------->
+<iframe src="LINK" style="width:950px;height:550px;" name="meu_iframe"></iframe>
+
+<p><a href="https://diariodonordeste.verdesmares.com.br/ultima-hora" target="meu_iframe"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Di%C3%A1rio_do_Nordeste_logo.svg/1200px-Di%C3%A1rio_do_Nordeste_logo.svg.png" width="100"></a>
+
+<a href="LINK" target="meu_iframe"><img src="IMAGEM" width="100"></a>
+
+<a href="LINK" target="meu_iframe"><img src="IMAGEM" width="100"></a>
+
+<a href="LINK" target="meu_iframe"><img src="IMAGEM" width="100"></a>
+
+<a href="LINK" target="meu_iframe"><img src="IMAGEM" width="100"></a>
+
+<a href="LINK" target="meu_iframe"><img src="IMAGEM" width="100"></a></p>
+<!---------------------------------------------------------------------->
+<button onclick="window.open('LINK','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); "><FONT COLOR="#40FF00"><img src="
+IMAGEM
+" width="160" border="5px"></FONT></a></button>
+
+
+
+<video width="470" height="255" poster="
+IMAGEM
+" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg"><source src="
+LINK
+" type="video/webm"><object data="
+LINK
+" width="470" height="255"><embed src="
+LINK
+" width="470" height="255"></object></video>
+<!------------------------------------------------------------------------>
+<video width="320" height="240" controls autoplay><source src="
+LINK
+" type="video/ogg"><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/webm"><object data="
+LINK
+" width="320" height="240"><embed width="320" height="240" src="
+LINK
+"></object></video>
+<!------------------------------------------------------------------------>
+
+
+
+<CENTER>
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>PROGRAMASDOWNLOAD</title>
+<link rel="shortcut icon" href="https://static.fabapp.com/ca6ce31e0232bd74cdc16f74eaa56ce48698ce5f" type="image/x-icon">	Download-Manager-For-Windows.png" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="PROGRAMASDOWNLOAD">
+<meta name="keywords" content="PROGRAMASDOWNLOAD">
+<CENTER>
+
+
+<link rel = "shortcut icon" type = "imagem/x-icon" href = "/imagens/icone_ie.ico"/>
+
+<link rel="icon" type="imagem/png" href="/imagens/meufavicon.png" />
+
+<link rel="icon" href="/imagens/animated_favicon1.gif" type="imagem/gif">
+
+
+</head>
+<body>
+<center><font color="red">
+<FONT FACE=Courier COLOR="#AA0000"><div style="font-size: 250%"><h1>NOME DO SITE</h1></div></FONT>
+<img src="
+IMAGEM
+" width="300px"><h3>BEM VINDO</h3>
+<!---------------------------------------------------------------------->
+<FONT FACE=Arial COLOR="#00AA00">
+<!---------------------------------------------------------------------->
+<script src="https://code.jquery.com/jquery-1.11.2.js"></script>
+<script type="text/javascript">
+jQuery(window).load(function($){
+atualizaRelogio();
+});
+</script>
+</HEAD>
+<BODY>
+<div>
+<output id="data" style="font-family: 'arial black', 'avant garde'; font-size: 24px;"></output>
+</div>
+<div>
+<output id="hora" style="font-family: 'arial black', 'avant garde'; font-size: 24px;"></output>				
+</div>			
+</BODY>
+<script>
+function atualizaRelogio(){ 
+var momentoAtual = new Date();
+var vhora = momentoAtual.getHours();
+var vminuto = momentoAtual.getMinutes();
+var vsegundo = momentoAtual.getSeconds();
+var vdia = momentoAtual.getDate();
+var vmes = momentoAtual.getMonth() + 1;
+var vano = momentoAtual.getFullYear();
+if (vdia < 10){ vdia = "0" + vdia;}
+if (vmes < 10){ vmes = "0" + vmes;}
+if (vhora < 10){ vhora = "0" + vhora;}
+if (vminuto < 10){ vminuto = "0" + vminuto;}
+if (vsegundo < 10){ vsegundo = "0" + vsegundo;}
+dataFormat = vdia + " / " + vmes + " / " + vano;
+horaFormat = vhora + " : " + vminuto + " : " + vsegundo;
+document.getElementById("data").innerHTML = dataFormat;
+document.getElementById("hora").innerHTML = horaFormat;
+setTimeout("atualizaRelogio()",1000);
+}
+</script>	
+</HTML>
+<!---_______________________________M3U8___________________________--><hr/>
+
+
+M3U8
+
+
+<!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL">
+  </video><script>var player = videojs('my_video_1');player.play();</script></body></html>
+
+<button onclick="window.open('PASTA/Novo Documento de Texto.txt','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); "><h1>INGREDIENTES</h1></button>
+
+<!------------------------------M3U8--2--C/TAMANHO------------------------------>
+
+
+
+
+
+
+<!--------------------------------------------------->
+
+<center><FONT COLOR="#00FFFF"><b><u><h2>
+NOME
+</h2></u></b></FONT><br/><br/><br/><div style="float: left; WIDTH: 70%"><img src="
+IMAGEM
+" width="40%"><div class="column FILMES"><div class="content"><h2>
+NOMECANAL
+</h2><!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></div></div></div></center><div style="float: right; WIDTH: 60%"><FONT SIZE=+2><FONT COLOR="#FFFFFF"><b>GÊNERO:</b></FONT></FONT><FONT SIZE=+1><FONT COLOR="#FFFF00">
+GENERO
+</FONT></FONT><FONT SIZE=+2><br/><FONT COLOR="#FFFFFF"><b>SINOPSE:</b></FONT></FONT><FONT SIZE=+1><FONT COLOR="#FFFF00">
+SINOPSE:
+</FONT></FONT></div>
+<div style="clear: both"></div><br/></td> </tr></table><center><a href="
+LINK
+" target="_blank"><button class="button button2"><FONT SIZE=+2>DOWNLOAD</FONT></button><br></a></center><HR/><HR/>
+<!-------------------------------------------------------->
+<!-----------------------------
+https://megacontador.com.br/
+----------------------------->
+<!-------------------------------------------------------->
+
+<!------------------------M3U8 TMAMANHO E ESSE COM BOTAO----------------------------->
+<button class="button button2"><FONT SIZE=+2>NOME<!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></FONT></button><br></a></center><HR/><HR/>
+
+
+
+BOTAO
+
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {width: 250px;}
+.button2 {width: 50%;}
+.button3 {width: 100%;}
+</style>
+</head>
+<body>
+
+<h2>Set Button Widths</h2>
+
+<p>Use the width property to change the width of the button:</p>
+
+<button class="button button1">250px</button><br>
+<button class="button button2">50%</button><br>
+<button class="button button3">100%</button>
+
+<p><strong>Tip:</strong> Use pixels if you want to set a fixed width and use percent for responsive buttons (e.g. 50% of its parent element). Resize the browser window to see the effect.</p>
+
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body>
+
+<h2>Animated Button - "Pressed Effect"</h2>
+
+<button class="button">Click Me</button>
+
+</body>
+</html>
+
+
+
+
+<!------------------------------------------------------------------------->
+
+
+
+
+
+
+<!------------------------------------------------------------------------>
+popup
+<!-----------------------------------POP UP------------------------------->  
+<div class="column EXEMPLO"><div class="content"><button onclick="window.open('LINK','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); "><img src="
+IMAGEM
+" alt="Mountains" style="width:100%"></button></a><h4>
+NOME
+</h4><p>
+SOBRE
+</p></div></div>
+<!--------------------------------------------------------------------->
+  <button onclick="window.open('http://www.code3000.blogspot.pt/','Code 3000','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no,width=1000,height=1000'); ">Abrir popup</button>
+<!----------------------------------------------------------------------><hr/>
+        <td style="font-family:arial; font-size:11px; text-align:center" valign="top">
+            <a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank">
+<img src="https://yata-apix-074c0c14-deca-4c2a-80dc-52cfab49f090.lss.locawebcorp.com.br/838df2ff0ef04e1585a89e7c89944a7f.gif" width="200" border="5" />
+               
+            </a>
+        </td>
+        <td style="font-family:arial; font-size:12px; padding-left:10px">
+            <strong>SANTOS</strong><br />
+            <strong>Fone:</strong> (XX) XXXX XXXX<br />
+            <strong>MEU:</strong> <a href="https://www.facebook.com/santos12164" target="_blank">FACEBOOK</a><br />
+            <strong>MEU:</strong> <a href="https://www.instagram.com/santos0398/" target="_blank">INSTAGRAM</a><br />
+            <strong>OUTRO SITE:</strong> <a href="LINKAQUI" target="_blank">SITEAQUI</a><br />
+
+COMPARTILHE ESSE SITE NO FACEBOOK
+<!--FACEBOOK-->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+
+
+
+        </td> 
+    </tr>
+</table>
+<hr />
+
+        </div>
+        </div>
+        </div>
+    </body>
+</html> 
+
+<!----------------------------------------------------------------------><hr/>
+
+
+
+
+
+
+https://cse.google.com/cse/all
+
+https://www.homehost.com.br/blog/tutoriais/links-html/
+
+
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+<a href="#" onclick="window.open('LINK','popup','width=580,height=600,left=700,top=0');"> <img src="
+IMAGEM
+" width="20%"></a>
+<!---_____________________________FOTO__________________________________-->
+https://drive.google.com/uc?export=view&id=CODIGO DIVE
+<!---_______________________________DOWNLOADS________________________________-->
+https://docs.google.com/uc?export=download&id=DOWNLOADS
+
+https://drive.google.com/uc?export=download&id=DOWNLOADS
+
+https://drive.google.com/uc?export=download&confirm=s5vl&id=DOWNLOADS
+<!---_______________________________________________________________-->
+https://www.youtube.com/watch?v=hxXD1oghL0A&ab_channel=ZetaTech
+<!---_______________________________________________________________-->
+<a href="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" target="_blank"><img src="https://drive.google.com/uc?export=view&id=
+IMAGEM
+" width="25%"></a>
+<!---_______________________________DOWNLOAD __________________________-->
+<a href="/images/visualdicas_logo.png" download="teste_visualdicas">Clique aqui </a>
+<a href="/images/visualdicas_logo.png" download>Clique aqui </a>
+<a href="https://docs.google.com/uc?export=download&id=" download="teste_visualdicas">Clique aqui </a>
+<!---_______________________________________________________________-->
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>TÍTULO</title>
+<link rel="sortcut icon" href="IMAGEM" type="image/gif" />
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="DESCRIÇÃO SOBRE O SITE">
+<meta name="keywords" content="tang, tang, tang">
+<center>
+<!---------------------------FAIXA AZUL-------------------------------------->
+
+
+<a href="https://www.homehost.com.br/" target="_self">
+<div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white">FAIXA AZUL</p></div></a>
+<!-----------------------------------
+<style>
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+/*Link já visitado*/
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+/*Quando o mouse passa por cima*/
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+
+/*Link ativo/selecionado*/
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
+</style>
+-----------------------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    a{
+        text-decoration: none;
+        background-color: yellow;
+        color: red;
+        border: 1px solid blue
+        padding:3px 5px;
+    }
+</style>
+</head>
+
+<body>
+    <a href="">
+        Meu link personalizado
+    </a>
+</body>
+</html>
+
+-----------------------------------
+IMAGEM E FILMES DRIVE
+-----------------------------------
+https://drive.google.com/uc?export=view&id=
+LINK
+----------------------------------->
+https://drive.google.com/uc?export=view&id=[FileId]
+
+https://drive.google.com/uc?export=view&id=CODIGO DIVE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<a href="
+https://santos246.github.io/SANTOSFILMES/
+" target="_blank">
+OUTRA ABA
+</a>
+<img src="/logo.png" width="100">
+--------------------------------------------------------------------
+
+<a href="
+LINK
+" target="_self">
+MESMA ABA
+</a>
+<img src="/logo.png" width="100">
+
+-----------------------------------------------
+
+
+<img src="/logo.png" width="100">
+
+
+
+<img src="/logo.png" width="100">
+
+
+<img src="/logo.png" width="100" border="5px">
+
+
+<FONT COLOR="#DF01D7"><img src="/logo.png" width="100" border="5px"></FONT>
+<FONT COLOR="#2EFE2E"><img src="/logo.png" width="100" border="5px"></FONT>
+<FONT COLOR="#FFFF00"><img src="/logo.png" width="100" border="5px"></FONT>
+<FONT COLOR="#DF0101"><img src="/logo.png" width="100" border="5px"></FONT>
+<body bgcolor="#FF0000"> </body>
+
+<a href="
+https://santos246.github.io/SANTOSFILMES/
+" target="_blank">
+<FONT COLOR="#DF0101"><img src="/logo.png" width="100" border="5px"></FONT>
+</a>
+
+<html>
+<head>
+<style>
+img {
+  border: 5px solid #00FF00;
+}
+</style>
+</head>
+<body>
+
+<img src="img_snow.jpg" alt="Snow" style="width:150px">
+
+<img src="img_snow.jpg" alt="Snow" style="width:150px">
+
+
+==================================================
+
+
+</body>
+</html>
+
+
+
+
+<html>
+<head>
+<style>
+img {
+  border: 5px solid #555;
+}
+</style>
+</head>
+<body>
+
+<h2>Border Around Image</h2>
+<p>Use the border property to add a border to an image:</p>
+
+<img src="img_snow.jpg" alt="Snow" style="width:150px">
+
+</body>
+</html>
+
+
+
+<MARQUEE BEHAVIOR=SCROLL WIDTH=100%>
+NOMEFILME
+</MARQUEE>
+
+
+<video width="420" height="240" poster="
+IMAGEM
+" controls><source src="
+LINK
+" type="video/mp4"><source src="
+LINK
+" type="video/ogg">Your browser does not support the video tag.</video><a href="
+LINKFONTE
+" target="_blank">5</a>
+
+
+
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container">
+<img src="img_snowtops.jpg" class="w3-border" alt="Norway" style="padding:16px;width:50%">
+</div>
+
+</body>
+</html>
+
+<BR/><HR/>
+<a class="fa fa-envelope" href="mailto:?subject=&body=:%20" target="_blank=" title="Email"onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL)); return false;">✉️ENVIE ESSE PARA O EMAIL DE ALGUEM✉️</a></a>
+
+<!----------------------------------------------------------------------><hr/>
+<!-------------INCREVA-SE NO MEU CANAL YOUTUBE---------------------------->
+INCREVA-SE NO MEU CANAL YOUTUBE<br/>
+<a href="
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg?sub_confirmation=1
+" target="_blank">
+<img src="https://img.ibxk.com.br/2020/03/04/04134343768227.jpg" width="150">
+</a><br/>
+<!---------------------------FACEBOOK---------------------------->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+<!---------------------------------------------------------------------->
+<!-------------------------WHATZAPP--------------------------------->
+<style> #imagem_whats{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right} #imagem_whats2{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right;display:none} @media only screen and (max-width: 999px) and (min-width: 100px){#imagem_whats{display:none}#imagem_whats2{display:block}}</style><img id="imagem_whats" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://web.whatsapp.com/send?phone=+5585988885153&amp;text=Olá!❤️ GOSTEI DE SEU SITE E GOSTARIA DE DIZER QUE ...', '_blank');"><img id="imagem_whats2" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://api.whatsapp.com/send?phone=+556200000000&amp;text=Olá!SANTOS, QUERIA FALAR QUE...', '_blank');"><div class="preloader"> <div class="preloaderimg"></div></div>
+<!---------------------------------------------------------------------->
+NAO ESTA FUCIONANDO? <br/> FALE COMIGO P/ WHATSAPP
+<!-------------------------WHATSAPP E EMAIL----------------------------->
+<p>
+<a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20❤️SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank"><img src="https://static.wixstatic.com/media/84bd10_5b3ce28905c64674a4147f1f08878723~mv2.gif" width="100"></a>
+</p>
+<p>©<br><a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+<br/></p></h6>
+<h4>FIM</h4>
+</center>
+</body>
+</html><span id='FIM'></span>
+<!------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------->
+<hr>
+</div>
+<footer class="w3-container w3-theme">
+<a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+</footer>
+</body>
+</center>
+
+=============================================================================
+
+<a download="pagina.html" href="data:text/html;charset=utf-8,<html><body><b><h2><center>COPIE E COLE NO NAVEGADOR O LINK A BAIXO</h2></b><u><i><h4>
+<ol><li>
+NOME
+</li><li>
+NOME
+</li><li>
+NOME
+</li><li>
+
+</ol></center></h4></i></u></body></html>">Clique aqui</a>
+
+
+
+<a download="pagina.html" href="data:text/html;charset=utf-8,<html><body><b><h2><center>COPIE E COLE NO NAVEGADOR O LINK A BAIXO</h2></b><u><i><h4>
+<ol><li>
+UPLOADS DE FOTOS:  https://filmessantos-201.imgbb.com/
+</li><li>
+GERADOR DE LINK DRIVE: https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/
+</li><li>
+SUPERSITE:  https://santos246.github.io/SUPERSITEINICIO/
+</li><li>
+
+</ol></center></h4></i></u></body></html>">Clique aqui</a>
+
+
+<!---------------------------------------------------------------------->
+<hr/>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+</style>
+</head>
+<body>
+</body>
+<!---------------------------------------------------------------------->
+<a class="fa fa-envelope" href="mailto:?subject=&body=:%20" target="_blank=" title="Email"onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL)); return false;">✉️ENVIE ESSE PARA O EMAIL DE ALGUEM✉️</a></a>
+
+<!----------------------------------------------------------------------><hr/>
+        <td style="font-family:arial; font-size:11px; text-align:center" valign="top">
+            <a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank">
+<img src="https://yata-apix-074c0c14-deca-4c2a-80dc-52cfab49f090.lss.locawebcorp.com.br/838df2ff0ef04e1585a89e7c89944a7f.gif" width="200" border="5" />
+               
+            </a>
+        </td>
+        <td style="font-family:arial; font-size:12px; padding-left:10px">
+            <strong>SANTOS</strong><br />
+            <strong>Fone:</strong> (XX) XXXX XXXX<br />
+            <strong>MEU:</strong> <a href="https://www.facebook.com/santos12164" target="_blank">FACEBOOK</a><br />
+            <strong>MEU:</strong> <a href="https://www.instagram.com/santos0398/" target="_blank">INSTAGRAM</a><br />
+            <strong>OUTRO SITE:</strong> <a href="LINKAQUI" target="_blank">SITEAQUI</a><br />
+
+
+
+
+COMPARTILHE ESSE SITE NO FACEBOOK<BR/>
+<!--FACEBOOK-->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+
+
+
+        </td> 
+    </tr>
+</table>
+<hr />
+
+        </div>
+        </div>
+        </div>
+    </body>
+</html> 
+</CENTER>
+<!----------------------------------------------------------------------><hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<BR/><HR/>
+<a class="fa fa-envelope" href="mailto:?subject=&body=:%20" target="_blank=" title="Email"onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL)); return false;">✉️ENVIE ESSE PARA O EMAIL DE ALGUEM✉️</a></a>
+
+<!----------------------------------------------------------------------><hr/>
+<!-------------INCREVA-SE NO MEU CANAL YOUTUBE---------------------------->
+INCREVA-SE NO MEU CANAL YOUTUBE<br/>
+<a href="
+https://www.youtube.com/channel/UCUhMP0pjOJN5BAhVcvzlwMg?sub_confirmation=1
+" target="_blank">
+<img src="https://img.ibxk.com.br/2020/03/04/04134343768227.jpg" width="150">
+</a><br/>
+<!---------------------------FACEBOOK---------------------------->
+<a target="_blank" href="http://www.facebook.com/sharer.php?u=LINK"><img src="https://pcdn.sharethis.com/wp-content/uploads/2017/11/Facebook-share-icon.png" width="90"></a>
+<!---------------------------------------------------------------------->
+<!-------------------------WHATZAPP--------------------------------->
+<style> #imagem_whats{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right} #imagem_whats2{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right;display:none} @media only screen and (max-width: 999px) and (min-width: 100px){#imagem_whats{display:none}#imagem_whats2{display:block}}</style><img id="imagem_whats" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://web.whatsapp.com/send?phone=+5585988885153&amp;text=Olá!❤️ GOSTEI DE SEU SITE E GOSTARIA DE DIZER QUE ...', '_blank');"><img id="imagem_whats2" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://api.whatsapp.com/send?phone=+556200000000&amp;text=Olá!SANTOS, QUERIA FALAR QUE...', '_blank');"><div class="preloader"> <div class="preloaderimg"></div></div>
+<!---------------------------------------------------------------------->
+NAO ESTA FUCIONANDO? <br/> FALE COMIGO P/ WHATSAPP
+<!-------------------------WHATSAPP E EMAIL----------------------------->
+<p>
+<a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20❤️SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank"><img src="https://static.wixstatic.com/media/84bd10_5b3ce28905c64674a4147f1f08878723~mv2.gif" width="100"></a>
+</p>
+<p>©<br><a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+<br/></p></h6>
+<h4>FIM</h4>
+</center>
+</body>
+</html><span id='FIM'></span>
+<!-----------------------------WHATZAPP AUTOMATICO------------------------------------>
+
+<!DOCTYPE html>
+<!--
+GitHub: HenriqueIni
+https://www.blogcyberini.com/
+-->
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Botão do WhatsApp</title>
+    <!--
+        A imagem do botão está em Base64 e foi obtida no IconFinder (https://www.iconfinder.com/icons/764939/media_social_square_whatsapp_icon)
+        Se preferir, coloque este CSS num arquivo externo.        
+    -->
+    <style>
+        .whatsapp-share-button{
+            display: inline-block;            
+            width: 40px;
+            height: 40px;
+            margin: 5px;
+            background-size: 100% 100%; /* ou 'contain' */
+            background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaGVpZ2h0PSI2MHB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA2MCA2MCIgd2lkdGg9IjYwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c2tldGNoPSJodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2gvbnMiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48dGl0bGUvPjxkZXNjLz48ZGVmcy8+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBpZD0ic29pY2FsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSI+PGcgaWQ9InNvY2lhbCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTk3My4wMDAwMDAsIC01MzguMDAwMDAwKSI+PGcgaWQ9InNsaWNlcyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTczLjAwMDAwMCwgMTM4LjAwMDAwMCkiLz48ZyBmaWxsPSIjNTdCQTYzIiBpZD0ic3F1YXJlLWZsYXQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE3My4wMDAwMDAsIDEzOC4wMDAwMDApIj48cGF0aCBkPSJNODAyLjk5NTkzNyw0MDAgTDg1Ny4wMDQwNjMsNDAwIEM4NTguNjU4NjczLDQwMCA4NjAsNDAxLjMzNzMxIDg2MCw0MDIuOTk1OTM3IEw4NjAsNDU3LjAwNDA2MyBDODYwLDQ1OC42NTg2NzMgODU4LjY2MjY5LDQ2MCA4NTcuMDA0MDYzLDQ2MCBMODAyLjk5NTkzNyw0NjAgQzgwMS4zNDEzMjcsNDYwIDgwMCw0NTguNjYyNjkgODAwLDQ1Ny4wMDQwNjMgTDgwMCw0MDIuOTk1OTM3IEM4MDAsNDAxLjM0MTMyNyA4MDEuMzM3MzEsNDAwIDgwMi45OTU5MzcsNDAwIFoiIGlkPSJzcXVhcmUtNDkiLz48L2c+PGcgZmlsbD0iI0ZGRkZGRiIgaWQ9Imljb24iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE4Mi4wMDAwMDAsIDE1MC4wMDAwMDApIj48cGF0aCBkPSJNODIxLjA3MTI2Miw0MzQuMjIxMDQ2IEM4MTguMjEwODMxLDQzNC4yMjEwNDYgODE1LjUyMzU2OSw0MzMuNDg5OTY5IDgxMy4xODU2LDQzMi4yMDY4OTIgTDgwNC4xNTM4NDYsNDM1LjA3NjkyMyBMODA3LjA5ODA5Miw0MjYuMzkxODc3IEM4MDUuNjEzMDQ2LDQyMy45NTIzNjkgODA0Ljc1NzUzOCw0MjEuMDkxNTY5IDgwNC43NTc1MzgsNDE4LjAzMzYgQzgwNC43NTc1MzgsNDA5LjA5MzQxNSA4MTIuMDYxMjkyLDQwMS44NDYxNTQgODIxLjA3MTYzMSw0MDEuODQ2MTU0IEM4MzAuMDgwODYyLDQwMS44NDYxNTQgODM3LjM4NDYxNSw0MDkuMDkzNDE1IDgzNy4zODQ2MTUsNDE4LjAzMzYgQzgzNy4zODQ2MTUsNDI2Ljk3Mzc4NSA4MzAuMDgxMjMxLDQzNC4yMjEwNDYgODIxLjA3MTI2Miw0MzQuMjIxMDQ2IFogTTgyMS4wNzEyNjIsNDA0LjQyNDEyMyBDODEzLjUwNzkzOCw0MDQuNDI0MTIzIDgwNy4zNTU4MTUsNDEwLjUyOTM1NCA4MDcuMzU1ODE1LDQxOC4wMzM2IEM4MDcuMzU1ODE1LDQyMS4wMTE0NDYgODA4LjMyNjUyMyw0MjMuNzY5MjMxIDgwOS45NjgxMjMsNDI2LjAxMzA0NiBMODA4LjI1NDg5Miw0MzEuMDY3MDc3IEw4MTMuNTI1MjkyLDQyOS4zOTE4NzcgQzgxNS42OTEyLDQzMC44MTM3ODUgODE4LjI4NTQxNSw0MzEuNjQzMDc3IDgyMS4wNzEyNjIsNDMxLjY0MzA3NyBDODI4LjYzMzQ3Nyw0MzEuNjQzMDc3IDgzNC43ODY3MDgsNDI1LjUzODIxNSA4MzQuNzg2NzA4LDQxOC4wMzM5NjkgQzgzNC43ODY3MDgsNDEwLjUyOTcyMyA4MjguNjMzNDc3LDQwNC40MjQxMjMgODIxLjA3MTI2Miw0MDQuNDI0MTIzIEw4MjEuMDcxMjYyLDQwNC40MjQxMjMgWiBNODI5LjMwODgsNDIxLjc2MTcyMyBDODI5LjIwODM2OSw0MjEuNTk2Njc3IDgyOC45NDE3ODUsNDIxLjQ5Njk4NSA4MjguNTQyNjQ2LDQyMS4yOTg3MDggQzgyOC4xNDI0LDQyMS4xMDA0MzEgODI2LjE3NTg3Nyw0MjAuMTQwMDYyIDgyNS44MDk5NjksNDIwLjAwODI0NiBDODI1LjQ0Mjk1NCw0MTkuODc2MDYyIDgyNS4xNzYsNDE5LjgwOTIzMSA4MjQuOTA5Nzg1LDQyMC4yMDY1MjMgQzgyNC42NDM1NjksNDIwLjYwMzgxNSA4MjMuODc3MDQ2LDQyMS40OTY5ODUgODIzLjY0MzMyMyw0MjEuNzYxNzIzIEM4MjMuNDA5OTY5LDQyMi4wMjY4MzEgODIzLjE3Njk4NSw0MjIuMDYwMDYyIDgyMi43NzcxMDgsNDIxLjg2MTQxNSBDODIyLjM3NzYsNDIxLjY2MzEzOCA4MjEuMDg4OTg1LDQyMS4yNDQwNjIgODE5LjU2MTEwOCw0MTkuODkyMzA4IEM4MTguMzcyNTU0LDQxOC44NDA3MzggODE3LjU2OTg0Niw0MTcuNTQyNTIzIDgxNy4zMzY4NjIsNDE3LjE0NDg2MiBDODE3LjEwMzUwOCw0MTYuNzQ3OTM4IDgxNy4zMTIxMjMsNDE2LjUzMzQxNSA4MTcuNTEyMjQ2LDQxNi4zMzU4NzcgQzgxNy42OTIwNjIsNDE2LjE1NzkwOCA4MTcuOTEyMTIzLDQxNS44NzI0OTIgODE4LjExMjI0Niw0MTUuNjQwOTg1IEM4MTguMzEyMzY5LDQxNS40MDkxMDggODE4LjM3ODgzMSw0MTUuMjQ0MDYyIDgxOC41MTE3NTQsNDE0Ljk3ODk1NCBDODE4LjY0NTQxNSw0MTQuNzE0MjE1IDgxOC41Nzg1ODUsNDE0LjQ4MjcwOCA4MTguNDc4NTIzLDQxNC4yODM2OTIgQzgxOC4zNzg0NjIsNDE0LjA4NTQxNSA4MTcuNTc4MzM4LDQxMi4xMzI5MjMgODE3LjI0NTI5Miw0MTEuMzM4MzM4IEM4MTYuOTEyMjQ2LDQxMC41NDQ0OTIgODE2LjU3OTU2OSw0MTAuNjc2Njc3IDgxNi4zNDU4NDYsNDEwLjY3NjY3NyBDODE2LjExMjQ5Miw0MTAuNjc2Njc3IDgxNS44NDU5MDgsNDEwLjY0MzQ0NiA4MTUuNTc5MzIzLDQxMC42NDM0NDYgQzgxNS4zMTI3MzgsNDEwLjY0MzQ0NiA4MTQuODc5MjYyLDQxMC43NDI3NjkgODE0LjUxMjYxNSw0MTEuMTM5NjkyIEM4MTQuMTQ2MzM4LDQxMS41MzY5ODUgODEzLjExMzYsNDEyLjQ5Njk4NSA4MTMuMTEzNiw0MTQuNDQ5MTA4IEM4MTMuMTEzNiw0MTYuNDAxNiA4MTQuNTQ1ODQ2LDQxOC4yODggODE0Ljc0NjMzOCw0MTguNTUyMzY5IEM4MTQuOTQ2MDkyLDQxOC44MTY3MzggODE3LjUxMTg3Nyw0MjIuOTUzNiA4MjEuNTc2NzM4LDQyNC41NDI0IEM4MjUuNjQzMDc3LDQyNi4xMzA4MzEgODI1LjY0MzA3Nyw0MjUuNjAwOTg1IDgyNi4zNzYzNjksNDI1LjUzNDg5MiBDODI3LjEwODU1NCw0MjUuNDY4OCA4MjguNzQxMjkyLDQyNC41NzUyNjIgODI5LjA3NTQ0Niw0MjMuNjQ4ODYyIEM4MjkuNDA4MTIzLDQyMi43MjE3MjMgODI5LjQwODEyMyw0MjEuOTI3MTM4IDgyOS4zMDg4LDQyMS43NjE3MjMgTDgyOS4zMDg4LDQyMS43NjE3MjMgWiIgaWQ9IndoYXRzYXBwIi8+PC9nPjwvZz48L2c+PC9zdmc+"); /*Base 64 Icon by Xinh Studio*/
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="" id="whatsapp-share-btt" rel="nofollow" target="_blank" class="whatsapp-share-button"></a>
+    
+    <!-- Você pode colocar este script num arquivo externo -->
+    <script type="text/javascript">
+        //Constrói a URL depois que o DOM estiver pronto
+        document.addEventListener("DOMContentLoaded", function() {
+            //conteúdo que será compartilhado: Título da página + URL
+            var conteudo = encodeURIComponent(document.title + " " + window.location.href);
+            //altera a URL do botão
+            document.getElementById("whatsapp-share-btt").href = "https://api.whatsapp.com/send?text=" + conteudo;
+        }, false);
+    </script>
+</body>
+
+</html>
+
+
+<!------------------------M3U8 TMAMANHO E ESSE COM BOTAO----------------------------->
+<!------------------------M3U8 TMAMANHO E ESSE COM BOTAO----------------------------->
+<button class="button button2"><FONT SIZE=+2>NOME<!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></FONT></button><br></a></center><HR/><HR/>
+
+
+
+BOTAO
+
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {width: 250px;}
+.button2 {width: 50%;}
+.button3 {width: 100%;}
+</style>
+</head>
+<body>
+
+<h2>Set Button Widths</h2>
+
+<p>Use the width property to change the width of the button:</p>
+
+<button class="button button1">250px</button><br>
+<button class="button button2">50%</button><br>
+<button class="button button3">100%</button>
+
+<p><strong>Tip:</strong> Use pixels if you want to set a fixed width and use percent for responsive buttons (e.g. 50% of its parent element). Resize the browser window to see the effect.</p>
+
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body>
+
+<h2>Animated Button - "Pressed Effect"</h2>
+
+<button class="button">Click Me</button>
+
+</body>
+</html>
+
+
+
+
+<!------------------------------------------------------------------------->
+
+
+
+
+<!------------------------------------------------------------------------->
+<!----------------------👆‍--M3U8 TMAMANHO E ESSE COM BOTAO--👆‍--------------------------->
+
+<center>
+<!---------------------FAIXA AZUL----------------------->  
+<a href="https://santos12164hotmail.github.io/IN-CIO-GERAL-SANTOS12164-UNIVERSO-ONLINEs12164/" target="_self">
+<div height="100" style="background-color: blue;line-height: 100px;text-align: center;"><p style="color: white"><FONT SIZE=+2>UNIVERSO ONLINE</FONT></p></div></a>
+<!------------------------------------------------------>  
+<BR/><HR/>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<SCRIPT LANGUAGE="JAVASCRIPT">
+<!--
+var now = new Date();
+var mName = now.getMonth() +1 ;
+var dName = now.getDay() +1;
+var dayNr = now.getDate();
+var yearNr=now.getYear();
+if(dName==1) {Day = "Domingo";}
+if(dName==2) {Day = "Segunda-feira";}
+if(dName==3) {Day = "Terça-feira";}
+if(dName==4) {Day = "Quarta-feira";}
+if(dName==5) {Day = "Quinta-feira";}
+if(dName==6) {Day = "Sexta-feira";}
+if(dName==7) {Day = "Sábado";}
+if(mName==1){Month = "Janeiro";}
+if(mName==2){Month = "Fevereiro";}
+if(mName==3){Month = "Março";}
+if(mName==4){Month = "Abril";}
+if(mName==5){Month = "Maio";}
+if(mName==6){Month = "Junho";}
+if(mName==7){Month = "Julho";}
+if(mName==8){Month = "Agosto";}
+if(mName==9){Month = "Setembro";}
+if(mName==10){Month = "Outubro";}
+if(mName==11){Month = "Novembro";}
+if(mName==12){Month = "Dezembro";}
+if(yearNr < 2000) {Year = 1900 + yearNr;}
+else {Year = yearNr;}
+var todaysDate =(" " + Day + ", " + dayNr + "/" + Month + "/" + Year);
+document.write('  '+todaysDate);
+//-->
+</SCRIPT>
+<SPAN ID="Clock">00:00:00</SPAN>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+  var Elem = document.getElementById("Clock");
+  function Horario(){ 
+    var Hoje = new Date(); 
+    var Horas = Hoje.getHours(); 
+    if(Horas < 10){ 
+      Horas = "0"+Horas; 
+    } 
+    var Minutos = Hoje.getMinutes(); 
+    if(Minutos < 10){ 
+      Minutos = "0"+Minutos; 
+    } 
+    var Segundos = Hoje.getSeconds(); 
+    if(Segundos < 10){ 
+      Segundos = "0"+Segundos; 
+    } 
+    Elem.innerHTML = Horas+":"+Minutos+":"+Segundos; 
+    } 
+    window.setInterval("Horario()",1000);
+//-->
+</SCRIPT>
+</body>
+</html>
+<BR/><HR/>
+<!------------------------------------------------------> 
+<button class="button button2"><h2>
+NOME
+</h2><img src="/logo.png" width="110"><!DOCTYPE html><html><head><meta charset=utf-8 /><title>SANTOS</title>
+<link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+<script src="https://unpkg.com/video.js/dist/video.js"></script>
+<script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script></head><body>
+<video id="my_video_1" class="video-js vjs-fluid vjs-default-skin" controls preload="auto"data-setup='{}'><source src="
+LINKm3u8
+" type="application/x-mpegURL"></video><script>var player = videojs('my_video_1');player.play();</script></body></html></button><br></a></center><HR/><HR/>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #FFFF00}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #00FF00; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {width: 250px;}
+.button2 {width: 50%;}
+.button3 {width: 100%;}
+</style>
+</head>
+<body></body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h2 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+<!-------------------------WHATZAPP--------------------------------->
+<style> #imagem_whats{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right} #imagem_whats2{position:fixed;right:0;bottom:0;display:block;cursor:pointer;z-index:9999999;float:right;display:none} @media only screen and (max-width: 999px) and (min-width: 100px){#imagem_whats{display:none}#imagem_whats2{display:block}}</style><img id="imagem_whats" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://web.whatsapp.com/send?phone=+5585988885153&amp;text=Olá!❤️ GOSTEI DE SEU SITE E GOSTARIA DE DIZER QUE ...', '_blank');"><img id="imagem_whats2" src="https://www.ellodigital.com.br/images/whatsapp.png" onClick="window.open('https://api.whatsapp.com/send?phone=+556200000000&amp;text=Olá!SANTOS, QUERIA FALAR QUE...', '_blank');"><div class="preloader"> <div class="preloaderimg"></div></div>
+<!---------------------------------------------------------------------->
+NAO ESTA FUCIONANDO? <br/> FALE COMIGO P/ WHATSAPP
+<!-------------------------WHATSAPP E EMAIL----------------------------->
+<p>
+<a href="https://api.whatsapp.com/send?phone=5585988885153&text=Ol%C3%A1%20❤️SANTOS%2C%20GOSTARIA%20DE%20DIZER%20QUE%20.%20.%20.%20%20%20%20" target="_blank"><img src="https://static.wixstatic.com/media/84bd10_5b3ce28905c64674a4147f1f08878723~mv2.gif" width="100"></a>
+</p>
+<p>©<br><a href="mailto:santos.12164@hotmail.com?Subject=OI%20SANTOS,%20GOSTARIA%20DE%20FALAR%20SOBRE%20SEU%20SITE..." target="_top">santos.12164@hotmail.com</a>
+<br/></p></h6>
+<h4>FIM</h4>
+</center>
+</body>
+</html><span id='FIM'></span>
+<!-----------------------------WHATZAPP AUTOMATICO------------------------------------>
+
+<!DOCTYPE html>
+<!--
+GitHub: HenriqueIni
+https://www.blogcyberini.com/
+-->
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Botão do WhatsApp</title>
+    <!--
+        A imagem do botão está em Base64 e foi obtida no IconFinder (https://www.iconfinder.com/icons/764939/media_social_square_whatsapp_icon)
+        Se preferir, coloque este CSS num arquivo externo.        
+    -->
+    <style>
+        .whatsapp-share-button{
+            display: inline-block;            
+            width: 40px;
+            height: 40px;
+            margin: 5px;
+            background-size: 100% 100%; /* ou 'contain' */
+            background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaGVpZ2h0PSI2MHB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA2MCA2MCIgd2lkdGg9IjYwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c2tldGNoPSJodHRwOi8vd3d3LmJvaGVtaWFuY29kaW5nLmNvbS9za2V0Y2gvbnMiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48dGl0bGUvPjxkZXNjLz48ZGVmcy8+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBpZD0ic29pY2FsIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSI+PGcgaWQ9InNvY2lhbCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTk3My4wMDAwMDAsIC01MzguMDAwMDAwKSI+PGcgaWQ9InNsaWNlcyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTczLjAwMDAwMCwgMTM4LjAwMDAwMCkiLz48ZyBmaWxsPSIjNTdCQTYzIiBpZD0ic3F1YXJlLWZsYXQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE3My4wMDAwMDAsIDEzOC4wMDAwMDApIj48cGF0aCBkPSJNODAyLjk5NTkzNyw0MDAgTDg1Ny4wMDQwNjMsNDAwIEM4NTguNjU4NjczLDQwMCA4NjAsNDAxLjMzNzMxIDg2MCw0MDIuOTk1OTM3IEw4NjAsNDU3LjAwNDA2MyBDODYwLDQ1OC42NTg2NzMgODU4LjY2MjY5LDQ2MCA4NTcuMDA0MDYzLDQ2MCBMODAyLjk5NTkzNyw0NjAgQzgwMS4zNDEzMjcsNDYwIDgwMCw0NTguNjYyNjkgODAwLDQ1Ny4wMDQwNjMgTDgwMCw0MDIuOTk1OTM3IEM4MDAsNDAxLjM0MTMyNyA4MDEuMzM3MzEsNDAwIDgwMi45OTU5MzcsNDAwIFoiIGlkPSJzcXVhcmUtNDkiLz48L2c+PGcgZmlsbD0iI0ZGRkZGRiIgaWQ9Imljb24iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE4Mi4wMDAwMDAsIDE1MC4wMDAwMDApIj48cGF0aCBkPSJNODIxLjA3MTI2Miw0MzQuMjIxMDQ2IEM4MTguMjEwODMxLDQzNC4yMjEwNDYgODE1LjUyMzU2OSw0MzMuNDg5OTY5IDgxMy4xODU2LDQzMi4yMDY4OTIgTDgwNC4xNTM4NDYsNDM1LjA3NjkyMyBMODA3LjA5ODA5Miw0MjYuMzkxODc3IEM4MDUuNjEzMDQ2LDQyMy45NTIzNjkgODA0Ljc1NzUzOCw0MjEuMDkxNTY5IDgwNC43NTc1MzgsNDE4LjAzMzYgQzgwNC43NTc1MzgsNDA5LjA5MzQxNSA4MTIuMDYxMjkyLDQwMS44NDYxNTQgODIxLjA3MTYzMSw0MDEuODQ2MTU0IEM4MzAuMDgwODYyLDQwMS44NDYxNTQgODM3LjM4NDYxNSw0MDkuMDkzNDE1IDgzNy4zODQ2MTUsNDE4LjAzMzYgQzgzNy4zODQ2MTUsNDI2Ljk3Mzc4NSA4MzAuMDgxMjMxLDQzNC4yMjEwNDYgODIxLjA3MTI2Miw0MzQuMjIxMDQ2IFogTTgyMS4wNzEyNjIsNDA0LjQyNDEyMyBDODEzLjUwNzkzOCw0MDQuNDI0MTIzIDgwNy4zNTU4MTUsNDEwLjUyOTM1NCA4MDcuMzU1ODE1LDQxOC4wMzM2IEM4MDcuMzU1ODE1LDQyMS4wMTE0NDYgODA4LjMyNjUyMyw0MjMuNzY5MjMxIDgwOS45NjgxMjMsNDI2LjAxMzA0NiBMODA4LjI1NDg5Miw0MzEuMDY3MDc3IEw4MTMuNTI1MjkyLDQyOS4zOTE4NzcgQzgxNS42OTEyLDQzMC44MTM3ODUgODE4LjI4NTQxNSw0MzEuNjQzMDc3IDgyMS4wNzEyNjIsNDMxLjY0MzA3NyBDODI4LjYzMzQ3Nyw0MzEuNjQzMDc3IDgzNC43ODY3MDgsNDI1LjUzODIxNSA4MzQuNzg2NzA4LDQxOC4wMzM5NjkgQzgzNC43ODY3MDgsNDEwLjUyOTcyMyA4MjguNjMzNDc3LDQwNC40MjQxMjMgODIxLjA3MTI2Miw0MDQuNDI0MTIzIEw4MjEuMDcxMjYyLDQwNC40MjQxMjMgWiBNODI5LjMwODgsNDIxLjc2MTcyMyBDODI5LjIwODM2OSw0MjEuNTk2Njc3IDgyOC45NDE3ODUsNDIxLjQ5Njk4NSA4MjguNTQyNjQ2LDQyMS4yOTg3MDggQzgyOC4xNDI0LDQyMS4xMDA0MzEgODI2LjE3NTg3Nyw0MjAuMTQwMDYyIDgyNS44MDk5NjksNDIwLjAwODI0NiBDODI1LjQ0Mjk1NCw0MTkuODc2MDYyIDgyNS4xNzYsNDE5LjgwOTIzMSA4MjQuOTA5Nzg1LDQyMC4yMDY1MjMgQzgyNC42NDM1NjksNDIwLjYwMzgxNSA4MjMuODc3MDQ2LDQyMS40OTY5ODUgODIzLjY0MzMyMyw0MjEuNzYxNzIzIEM4MjMuNDA5OTY5LDQyMi4wMjY4MzEgODIzLjE3Njk4NSw0MjIuMDYwMDYyIDgyMi43NzcxMDgsNDIxLjg2MTQxNSBDODIyLjM3NzYsNDIxLjY2MzEzOCA4MjEuMDg4OTg1LDQyMS4yNDQwNjIgODE5LjU2MTEwOCw0MTkuODkyMzA4IEM4MTguMzcyNTU0LDQxOC44NDA3MzggODE3LjU2OTg0Niw0MTcuNTQyNTIzIDgxNy4zMzY4NjIsNDE3LjE0NDg2MiBDODE3LjEwMzUwOCw0MTYuNzQ3OTM4IDgxNy4zMTIxMjMsNDE2LjUzMzQxNSA4MTcuNTEyMjQ2LDQxNi4zMzU4NzcgQzgxNy42OTIwNjIsNDE2LjE1NzkwOCA4MTcuOTEyMTIzLDQxNS44NzI0OTIgODE4LjExMjI0Niw0MTUuNjQwOTg1IEM4MTguMzEyMzY5LDQxNS40MDkxMDggODE4LjM3ODgzMSw0MTUuMjQ0MDYyIDgxOC41MTE3NTQsNDE0Ljk3ODk1NCBDODE4LjY0NTQxNSw0MTQuNzE0MjE1IDgxOC41Nzg1ODUsNDE0LjQ4MjcwOCA4MTguNDc4NTIzLDQxNC4yODM2OTIgQzgxOC4zNzg0NjIsNDE0LjA4NTQxNSA4MTcuNTc4MzM4LDQxMi4xMzI5MjMgODE3LjI0NTI5Miw0MTEuMzM4MzM4IEM4MTYuOTEyMjQ2LDQxMC41NDQ0OTIgODE2LjU3OTU2OSw0MTAuNjc2Njc3IDgxNi4zNDU4NDYsNDEwLjY3NjY3NyBDODE2LjExMjQ5Miw0MTAuNjc2Njc3IDgxNS44NDU5MDgsNDEwLjY0MzQ0NiA4MTUuNTc5MzIzLDQxMC42NDM0NDYgQzgxNS4zMTI3MzgsNDEwLjY0MzQ0NiA4MTQuODc5MjYyLDQxMC43NDI3NjkgODE0LjUxMjYxNSw0MTEuMTM5NjkyIEM4MTQuMTQ2MzM4LDQxMS41MzY5ODUgODEzLjExMzYsNDEyLjQ5Njk4NSA4MTMuMTEzNiw0MTQuNDQ5MTA4IEM4MTMuMTEzNiw0MTYuNDAxNiA4MTQuNTQ1ODQ2LDQxOC4yODggODE0Ljc0NjMzOCw0MTguNTUyMzY5IEM4MTQuOTQ2MDkyLDQxOC44MTY3MzggODE3LjUxMTg3Nyw0MjIuOTUzNiA4MjEuNTc2NzM4LDQyNC41NDI0IEM4MjUuNjQzMDc3LDQyNi4xMzA4MzEgODI1LjY0MzA3Nyw0MjUuNjAwOTg1IDgyNi4zNzYzNjksNDI1LjUzNDg5MiBDODI3LjEwODU1NCw0MjUuNDY4OCA4MjguNzQxMjkyLDQyNC41NzUyNjIgODI5LjA3NTQ0Niw0MjMuNjQ4ODYyIEM4MjkuNDA4MTIzLDQyMi43MjE3MjMgODI5LjQwODEyMyw0MjEuOTI3MTM4IDgyOS4zMDg4LDQyMS43NjE3MjMgTDgyOS4zMDg4LDQyMS43NjE3MjMgWiIgaWQ9IndoYXRzYXBwIi8+PC9nPjwvZz48L2c+PC9zdmc+"); /*Base 64 Icon by Xinh Studio*/
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="" id="whatsapp-share-btt" rel="nofollow" target="_blank" class="whatsapp-share-button"></a>
+    
+    <!-- Você pode colocar este script num arquivo externo -->
+    <script type="text/javascript">
+        //Constrói a URL depois que o DOM estiver pronto
+        document.addEventListener("DOMContentLoaded", function() {
+            //conteúdo que será compartilhado: Título da página + URL
+            var conteudo = encodeURIComponent(document.title + " " + window.location.href);
+            //altera a URL do botão
+            document.getElementById("whatsapp-share-btt").href = "https://api.whatsapp.com/send?text=" + conteudo;
+        }, false);
+    </script>
+</body>
+
+</html>
+
+
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</html>
+
+
+<html>
+<a href="#top"><H3>VOLTAR AO TOPO</H3></a>
+</html>	
+</body>
+</html>
+<HR WIDTH="80%"><HR SIZE="2">
+<marquee>Fale comigo por WHATSAPP "85"9 8888-5153  Santos*, e só clicar no link abaixo<br></marquee>
+<a href="
+https://wa.me/5585988885153?text=SANTOS+QUERO+DIZER+QUE+...
+" target="_blank"><h2>
+<img src="https://static.wixstatic.com/media/7c7e48_39c88197341146b1ad774494bae6731e~mv2.gif" width="30">FALE COMIGO*
+</h2></a>
+<HR NOSHADE SIZE="3" color="red">
+<HR NOSHADE SIZE="5" color="#00ff00">©️<br/><br/><br/></center>
